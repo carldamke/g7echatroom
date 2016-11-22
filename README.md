@@ -1,7 +1,5 @@
-# chat-example
+This is a Chatroom for my class which is based on a simple Tutorial from socket.io
 
-This is the source code for a very simple chat example used for 
-the [Getting Started](http://socket.io/get-started/chat/) guide 
-of the Socket.IO website.
+It is online under the adress (http://www.chatroomg7e.herokuapp.com/)
 
-Please refer to it to learn how to run this application.
+WARNING it's a little bit of individualized for my class.
