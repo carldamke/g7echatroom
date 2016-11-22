@@ -1,0 +1,10 @@
+{
+  "name": "Chatroom G7E",
+  "version": "0.0.1",
+  "description": "Chatroom for my class",
+  "dependencies": {
+    "express": "^4.14.0",
+    "socket.io": "1.2.0",
+    "socketio": "^1.0.0"
+  }
+}
